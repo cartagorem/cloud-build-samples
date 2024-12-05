@@ -22,5 +22,4 @@ func main () {
   fmt.Println("Hello, GCP!!!!!")
   fmt.Println("I'm cartagorem")
   fmt.Println("Processing...")
-  fmt.Println("See you later.")
 }
