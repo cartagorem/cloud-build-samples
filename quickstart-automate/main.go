@@ -21,4 +21,6 @@ import (
 func main () {
   fmt.Println("Hello, GCP!!!!!")
   fmt.Println("I'm cartagorem")
+  fmt.Println("Hello, GCP!!!!!")
+  fmt.Println("I'm cartagorem")
 }
